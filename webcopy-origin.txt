@@ -1,0 +1,236 @@
+Uri: https://snowhacks.pro/
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\index.htm
+Content Type: text/html
+
+Uri: https://snowhacks.pro/img/favicon/favicon.ico
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://snowhacks.pro/img/favicon/apple-touch-icon-180x180.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\favicon\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\icon.css
+Content Type: text/css
+
+Uri: https://snowhacks.pro/css/main.min.css
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\css\main.min.css
+Content Type: text/css
+
+Uri: https://www.youtube.com/watch?v=IfEQ1dJAddE
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\watch.html
+Content Type: text/html
+
+Uri: https://snowhacks.pro/public.html
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\public.html
+Content Type: text/html
+
+Uri: https://kit.fontawesome.com/2eb6433236.js
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\2eb6433236.js
+Content Type: text/javascript
+
+Uri: https://snowhacks.pro/img/logo.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\logo.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/win.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\win.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/man-header.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\man-header.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/standart.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\standart.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/vip.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\vip.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/premium.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\premium.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/embed/niXF4a_JLck
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\embed\niXF4a_JLck.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/LSQiGuZH2zc
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\embed\LSQiGuZH2zc.html
+Content Type: text/html
+
+Uri: https://snowhacks.pro/img/scr/1.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\1.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/2.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\2.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/3.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\3.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/4.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\4.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/5.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\5.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/6.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\6.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/7.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\7.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/8.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\8.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/scr/9.jpg
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\scr\9.jpg
+Content Type: image/jpeg
+
+Uri: https://snowhacks.pro/img/pay.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\pay.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/modal-pay.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\modal-pay.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/js/scripts.min.js
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://snowhacks.pro/fonts/GothamPro/GothamPro.eot
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamPro\GothamPro.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamPro/GothamPro.eot?
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamPro\GothamPro-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamPro/GothamPro.woff
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamPro\GothamPro.woff
+Content Type: font/woff
+
+Uri: https://snowhacks.pro/fonts/GothamPro/GothamPro.ttf
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamPro\GothamPro.ttf
+Content Type: application/octet-stream
+
+Uri: https://snowhacks.pro/fonts/GothamProLight/GothamProLight.eot
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProLight\GothamProLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProLight/GothamProLight.eot?
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProLight\GothamProLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProLight/GothamProLight.woff
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProLight\GothamProLight.woff
+Content Type: font/woff
+
+Uri: https://snowhacks.pro/fonts/GothamProLight/GothamProLight.ttf
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProLight\GothamProLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://snowhacks.pro/fonts/GothamProMedium/GothamProMedium.eot
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProMedium\GothamProMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProMedium/GothamProMedium.eot?
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProMedium\GothamProMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProMedium/GothamProMedium.woff
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProMedium\GothamProMedium.woff
+Content Type: font/woff
+
+Uri: https://snowhacks.pro/fonts/GothamProMedium/GothamProMedium.ttf
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProMedium\GothamProMedium.ttf
+Content Type: application/octet-stream
+
+Uri: https://snowhacks.pro/fonts/GothamProBold/GothamProBold.eot
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBold\GothamProBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProBold/GothamProBold.eot?
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBold\GothamProBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProBold/GothamProBold.woff
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBold\GothamProBold.woff
+Content Type: font/woff
+
+Uri: https://snowhacks.pro/fonts/GothamProBold/GothamProBold.ttf
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBold\GothamProBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://snowhacks.pro/fonts/GothamProBlack/GothamProBlack.eot
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBlack\GothamProBlack.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProBlack/GothamProBlack.eot?
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBlack\GothamProBlack-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://snowhacks.pro/fonts/GothamProBlack/GothamProBlack.woff
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBlack\GothamProBlack.woff
+Content Type: font/woff
+
+Uri: https://snowhacks.pro/fonts/GothamProBlack/GothamProBlack.ttf
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\fonts\GothamProBlack\GothamProBlack.ttf
+Content Type: application/octet-stream
+
+Uri: https://snowhacks.pro/img/title-decor.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\title-decor.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/background-modal.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\background-modal.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/bg-1.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\bg-1.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/bg-2.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\bg-2.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/bg-3.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\bg-3.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/bg-4.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\bg-4.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/arrow-slider.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\arrow-slider.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/bg-5.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\bg-5.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/frage.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\frage.png
+Content Type: image/png
+
+Uri: https://snowhacks.pro/img/arrow.png
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\img\arrow.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/css/all.css
+File Name: C:\Users\38066\Desktop\сайт\snowhacks.pro\releases\v5.8.2\css\all.css
+Content Type: text/css
+
